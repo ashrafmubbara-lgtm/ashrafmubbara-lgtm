@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafmubbara-lgtm&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafmubbara-lgtm" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [Weather App using using Open Weather API](gentle-swan-c5e030.netlify.app)
+- 🔭 I’m currently working on [Weather App using using Open Weather API](http://gentle-swan-c5e030.netlify.app)
 
 - 🌱 I’m currently learning **HTML,CSS and JavaScript**
 
-- 👯 I’m looking to collaborate on [Frontend web Development projects](ornate-mousse-f0c937.netlify.app)
+- 👯 I’m looking to collaborate on [Frontend web Development projects](http://ornate-mousse-f0c937.netlify.app)
 
 - 🤝 I’m looking for help with [JavaScript Projects](https://app.netlify.com/projects/gentle-swan-c5e030/configuration/general)
 
